@@ -1,2 +1,3 @@
-# my-portfolio
-This si my professional portfolio
+# Michael Chuang's Portfolio
+
+This is my professional portfolio.  It uses AWS and ReactJS.
